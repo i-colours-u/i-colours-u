@@ -1,16 +1,24 @@
-### Hi there 👋
+### Song jihun - 송지훈
+[![HitCount](http://hits.dwyl.com/i-colours-u/i-colours-u/i-colours-u.svg)](http://hits.dwyl.com/i-colours-u/i-colours-u/i-colours-u)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:i.colours.u@gmail.com)
 
-<!--
-**i-colours-u/i-colours-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🏫 I'm in ... <br>
+Sungkyunkwan University (SKKU), South Korea <br>
+Computer Education 📝
 
-Here are some ideas to get you started:
+#### 📝 I've learned ... <br>
+- 20.04 ~ 20.08 SOPT 26th iOS Part Completion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning & interested in ... <br>
+- Mobile Front-End (iOS - SWift) <br>
+- UX/UI Design <br>
+- Color <br>
+
+#### 🧑🏻‍💻 I'm currently coding ...
+
+##### 유링크 - 대학 생활의 연결점
+![1232](https://user-images.githubusercontent.com/60260284/91085736-dadbcc80-e688-11ea-9aaf-74c4f79135ff.png)
+
+[Go to App-Store](https://apps.apple.com/kr/app/%EC%9C%A0%EB%A7%81%ED%81%AC/id1527898229)
+
+
