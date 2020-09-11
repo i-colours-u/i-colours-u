@@ -16,7 +16,7 @@ Computer Education 📝
 - UX/UI Design <br>
 - Color <br> 
 
-#### 🧑🏻‍💻 I'm currently coding ....
+#### 🧑🏻‍💻 I'm currently coding ...
 
 ##### 유링크 - 대학 생활의 연결점
 ![1232](https://user-images.githubusercontent.com/60260284/91085736-dadbcc80-e688-11ea-9aaf-74c4f79135ff.png)
