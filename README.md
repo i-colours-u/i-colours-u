@@ -25,4 +25,4 @@ Computer Education 📝
 [Go to App-Store](https://apps.apple.com/kr/app/%EC%9C%A0%EB%A7%81%ED%81%AC/id1527898229)
 
 
-![beer Please..](https://github-readme-stats.vercel.app/api?username=i-colours-u&show_icons=true&theme=synthwave) 
+![beer Please..](https://github-readme-stats.vercel.app/api?username=i-colours-u&show_icons=true&theme=synthwave)  
