@@ -20,7 +20,7 @@ Computer Education 📝
 #### 🧑🏻‍💻 I'm currently coding ...
 
 ##### 유링크 - 대학 생활의 연결점
-![1232](https://user-images.githubusercontent.com/60260284/91085736-dadbcc80-e688-11ea-9aaf-74c4f79135ff.png)
+![1232](https://user-images.githubusercontent.com/60260284/91085736-dadbcc80-e688-11ea-9aaf-74c4f79135ff.png) 
 
 [Go to App-Store](https://apps.apple.com/kr/app/%EC%9C%A0%EB%A7%81%ED%81%AC/id1527898229)
 
