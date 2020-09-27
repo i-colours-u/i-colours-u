@@ -15,7 +15,7 @@ Computer Education 📝
 #### 🌱 I’m currently learning & interested in ... <br>
 - Mobile Front-End (iOS - SWift) <br>
 - UX/UI Design <br>
-- Color <br> 
+- Color <br>  
 
 #### 🧑🏻‍💻 I'm currently coding ...
 
