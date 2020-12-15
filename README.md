@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=i.colours.u&github&fontSize=50&fontColor=FFFFFF)
  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:i.colours.u@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:i.colours.u@gmail.com) 
   
 #### 🏫 I'm in ... <br> 
 Song Ji Hun (송지훈) <br>   
