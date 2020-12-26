@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:i.colours.u@gmail.com) 
   
 #### 🏫 I'm in ... <br> 
-Song Ji Hun (송지훈) <br>   
+Song Ji Hun (송지훈) <br>    
 Sungkyunkwan University (SKKU), South Korea <br>
 Computer Education 📝   
     
