@@ -5,7 +5,7 @@
   
 #### 🏫 I'm in ... <br>  
 Song Ji Hun (송지훈) <br>      
-Sungkyunkwan University (SKKU), South Korea <br> 
+Sungkyunkwan University (SKKU), South Korea <br>  
 Computer Education 📝   
     
 #### 📝 I've learned ... <br>    
