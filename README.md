@@ -10,7 +10,8 @@ Computer Education 📝
     
 #### 📝 I've learned ... <br>    
 - 20.04 ~ 20.08 SOPT 26th iOS Part Completion  
-- 20 09 ~ SOPT 27th iOS Part 
+- 20 09 ~ 21.02 SOPT 27th iOS Part Completion
+- 21.02 ~ 28th iOS Part Leader
 
 #### 🌱 I’m currently learning & interested in ... <br>
 - Mobile Front-End (iOS - SWift) <br>
